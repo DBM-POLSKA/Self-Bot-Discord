@@ -1,0 +1,12 @@
+{
+  "name": "self-bot",
+  "author": "Shadow",
+  "main": "bot.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.1"
+  },
+  "scripts": {
+    "START": "node bot.js"
+  }
+}
